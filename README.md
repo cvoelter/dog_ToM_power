@@ -18,6 +18,6 @@
 ├── Study 2           <-- Power analysis of first choice data using a Generalized Linear Model (GLM; binomial error structure).
 ├── Study 3           <-- Power analysis of gaze-congruent first looks using a Generalized Linear Mixed Model (GLMM; binomial error structure).
 ├── Study 4           <-- Power analysis of choices following the communicator's suggestion using a GLM (binomial error structure).
-├── Study 5         <-- Power analysis of wait response using a GLMM (binomial error structure).
-├── Study 6         <-- Power analysis of first look to true hiding position using a GLMM (binomial error structure).
+├── Study 5           <-- Power analysis of wait response using a GLMM (binomial error structure).
+├── Study 6           <-- Power analysis of first look to true hiding position using a GLMM (binomial error structure).
 ```
